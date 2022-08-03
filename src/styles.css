@@ -44,3 +44,17 @@ span{
   font-size: 35px;
   padding: 10px;
 }
+
+.row{
+  display: flex;
+}
+.col{
+  flex-grow: 1;
+  margin-right: 10px;
+
+}
+
+input{
+  display: block;
+  margin: 5px;
+}
